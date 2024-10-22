@@ -151,7 +151,7 @@ int main()
     return 0;
 }
 ```
-
+![exp19](https://github.com/ashuydv-05/Experiment-19/blob/main/Screenshot%202024-10-22%20072049.png)
 
 Conclusion:- In this experiment we learnt about queue and its operations.
 
